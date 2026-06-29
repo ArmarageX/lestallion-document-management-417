@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-document-management-417
+  env: static
+  staticPublishPath: public
